@@ -1,0 +1,20 @@
+.corpo_home{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img_lado{
+    width: 40%;
+    height: 570px;
+    background-image: url(../img_reactviagens/mala.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.texto_lado{
+    width: 40%;
+}
